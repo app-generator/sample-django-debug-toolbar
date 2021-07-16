@@ -1,5 +1,8 @@
 # Change Log
 
+## Unreleased 2020-07-16
+### Added Code for Debug Toolbar Sample
+
 ## [1.0.1] 2020-05-28
 ### Remove Media & Minor Fixes
 
