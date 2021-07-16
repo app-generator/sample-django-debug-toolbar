@@ -1,4 +1,4 @@
-# Django Soft UI Dashboard
+# Django Add Debug Toolbar
 
 Open-source sample provided by AppSeed on top of Django Soft UI Dashboard that provides a pre-configured codebase with **Django Debug Toolbar** plugin. or newcomers, the Django Debug Toolbar is a configurable set of panels that bumps various information about the current request/response when clicked.
 
@@ -226,4 +226,4 @@ At this point, the Debug Toolbar should be visible on the right side for all pag
 <br />
 
 ---
-Django Soft UI Dashboard - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
+Django Add Debug Toolbar - Provided by **AppSeed** [App Generator](https://appseed.us/app-generator).
