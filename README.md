@@ -1,6 +1,6 @@
 # Django Add Debug Toolbar
 
-Open-source sample provided by AppSeed on top of Django Soft UI Dashboard that provides a pre-configured codebase with **Django Debug Toolbar** plugin. or newcomers, the Django Debug Toolbar is a configurable set of panels that bumps various information about the current request/response when clicked.
+Open-source sample provided by AppSeed on top of **[Django Soft UI Dashboard](https://appseed.us/product/django-soft-ui-dashboard)** that provides a pre-configured codebase with **[Django Debug Toolbar](https://docs.appseed.us/content/how-to/django-add-debug-toolbar)** plugin. or newcomers, the Django Debug Toolbar is a configurable set of panels that bumps various information about the current request/response when clicked.
 
 <br />
 
