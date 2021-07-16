@@ -3,6 +3,11 @@
 ## Unreleased 2020-07-16
 ### Added Code for Debug Toolbar Sample
 
+- Updated Files:
+    - `core/settings.py`
+    - `core/urls.py`
+    - `requirements.txt`
+
 ## [1.0.1] 2020-05-28
 ### Remove Media & Minor Fixes
 
