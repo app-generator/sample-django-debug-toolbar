@@ -137,14 +137,14 @@ $ pip install django-debug-toolbar
 ```python
 # File core/urls.py
 
-import debug_toolbar                                 # <-- NEW                     
+import debug_toolbar                                          # <-- NEW                     
 
 from django.contrib import admin
 from django.urls import path, include  
 
 urlpatterns = [
    ...
-   path('__debug__/', include(debug_toolbar.urls)),  # <-- NEW
+   path('__debug__/', include(debug_toolbar.urls)),           # <-- NEW
    ... 
 ]
 
