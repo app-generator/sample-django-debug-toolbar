@@ -29,8 +29,8 @@ Open-source sample provided by AppSeed on top of **[Django Soft UI Dashboard](ht
 
 ```bash
 $ # Get the code
-$ git clone https://github.com/app-generator/django-soft-ui-dashboard.git
-$ cd django-soft-ui-dashboard
+$ git clone https://github.com/app-generator/django-add-debug-toolbar.git
+$ cd django-add-debug-toolbar
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
