@@ -137,7 +137,7 @@ $ pip install django-debug-toolbar
 ```python
 # File core/urls.py
 
-import debug_toolbar   # <-- NEW                     
+import debug_toolbar                                 # <-- NEW                     
 
 from django.contrib import admin
 from django.urls import path, include  
@@ -162,7 +162,7 @@ from decouple import config
 from unipath import Path
 import dj_database_url
 
-import mimetypes                      # <-- NEW
+import mimetypes                                               # <-- NEW
 
 
 BASE_DIR = Path(__file__).parent
@@ -170,7 +170,7 @@ BASE_DIR = Path(__file__).parent
 INSTALLED_APPS = [
    ... 
    'django.contrib.staticfiles',
-   'debug_toolbar',                   # <-- NEW
+   'debug_toolbar',                                            # <-- NEW
    ...  
 ]
 
